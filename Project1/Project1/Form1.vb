@@ -4,6 +4,7 @@
         'Code to make button 1 dome some stuff
 
         'USER 1 changes
+        'Some more changes
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs)
