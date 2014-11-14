@@ -9,6 +9,8 @@
 
     Private Sub Button2_Click(sender As Object, e As EventArgs)
         'Code to make button 1 dome some stuff
+
+        'User 2 changes
     End Sub
 
     Private Sub Button3_Click(sender As Object, e As EventArgs)
